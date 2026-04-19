@@ -42,7 +42,7 @@ PCB-ul are dimensiunile 36x38mm, grosime 1mm, 4 straturi (TOP, GND, POWER, BOTTO
   | Fuel Gauge   |                                                                    |   |
   +--------------+        Magistrala I2C (SDA=P0.06, SCL=P0.07):                      |   |
                           +--------------+  +--------------+  +--------------+        |   |
-                          | RT6160AWSC   |  |  BMA423 (IC3)|  | DRV2605YZFR  |        |   |
+                          | RT6160AWSC   |  |  BMA421 (IC3)|  | DRV2605YZFR  |        |   |
                           | Buck-Boost   |  |  IMU/Accel.  |  | Haptic (IC2) |        |   |
                           | -> 3V3 (IC9) |  |              |  | -> Motor     |        |   |
                           +--------------+  +--------------+  +--------------+        |   |
@@ -67,7 +67,7 @@ PCB-ul are dimensiunile 36x38mm, grosime 1mm, 4 straturi (TOP, GND, POWER, BOTTO
 | U1 | MCU nRF52840 | NRF52840-QIAA-R | AQFN-74 (7x7mm) | 1 | [C190794](https://jlcpcb.com/partdetail/NordicSemiconductor-nRF52840QIAA/C190794) | [Datasheet](https://infocenter.nordicsemi.com/pdf/nRF52840_PS_v1.7.pdf) |
 | IC1 | Incarcator baterie | BQ25180YBGR | DSBGA-8 (1.6x1.1mm) | 1 | [C3682423](https://jlcpcb.com/partdetail/C3682423) | [Datasheet](https://www.ti.com/lit/ds/symlink/bq25180.pdf) |
 | IC9 | Regulator Buck-Boost DC-DC | RT6160AWSC | WLCSP-15 (2.3x1.4mm) | 1 | [C7065276](https://jlcpcb.com/partdetail/C7065276) | [Datasheet](https://www.richtek.com/assets/product_file/RT6160A/DS6160A-00.pdf) |
-| IC3 | IMU / Accelerometru | BMA423 | LGA-12 (2x2mm) | 1 | [C189517](https://jlcpcb.com/partdetail/C189517) | [Datasheet](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bma423-ds000.pdf) |
+| IC3 | IMU / Accelerometru | BMA421 | LGA-12 (2x2mm) | 1 | [C5242966](https://jlcpcb.com/partdetail/BoschSensortec-BMA421/C5242966) | [Datasheet](https://files.pine64.org/doc/datasheet/pinetime/BST-BMA421-FL000.pdf) |
 | IC2 | Driver motor haptic | DRV2605YZFR | DSBGA-9 | 1 | [C81079](https://jlcpcb.com/partdetail/C81079) | [Datasheet](https://www.ti.com/lit/ds/symlink/drv2605.pdf) |
 | U2 | Fuel gauge Li-Po | MAX17048G+T10 | WLP-8 (0.9x1.8mm) | 1 | [C2682616](https://jlcpcb.com/partdetail/C2682616) | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/max17048-max17049.pdf) |
 | J4 | Conector USB-C | KH-TYPE-C-16P | SMD 16P | 1 | [C709357](https://jlcpcb.com/partdetail/C709357) | [Datasheet](https://datasheet.lcsc.com/lcsc/2108252330_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf) |
