@@ -4005,7 +4005,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" prefix="Q" library_version="24">
+<deviceset name="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" prefix="Q" library_version="6">
 <description>&lt;h3&gt;P-channel MOSFETs&lt;/h3&gt;
 &lt;p&gt;Voltage controlled devices that allow control of high current outputs.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;SparkFun Products:&lt;/b&gt;
@@ -4455,9 +4455,9 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <part name="D3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device="" value="USBLC6-2SC6Y"/>
 <part name="J2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="503480-2400_503480-2400" device="" value="503480-2400"/>
 <part name="U2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device="" value="MAX17048G+T10"/>
-<part name="SW1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
-<part name="SW2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
-<part name="SW3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part name="SW1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN" value="EVP-AKE31A"/>
+<part name="SW2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN" value="EVP-AKE31A"/>
+<part name="SW3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN" value="EVP-AKE31A"/>
 <part name="EPD_C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF/50V"/>
 <part name="SUPPLY58" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="C42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF"/>
