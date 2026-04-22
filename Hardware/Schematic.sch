@@ -4457,7 +4457,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <part name="U2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device="" value="MAX17048G+T10"/>
 <part name="SW1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN" value="EVP-AKE31A"/>
 <part name="SW2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN" value="EVP-AKE31A"/>
-<part name="SW3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN" value="EVP-AKE31A"/>
+<part name="SW3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
 <part name="EPD_C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF/50V"/>
 <part name="SUPPLY58" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="C42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.Gd55vp-dRl23AmqAKllygA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF"/>
