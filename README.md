@@ -261,8 +261,6 @@ Schema electrica a fost furnizata de dl. Tudose. Munca mea a constat in transpun
 - Fara cupru si fara trasee sub antena; decupaj PCB inclus sub 2450AT18B100E
 - Fara unghiuri de 90deg in trasee
 
-**DRC:** rulat cu fisierul de reguli furnizat. Au ramas erori de tip "Dimension" la cele trei butoane si mufa USB (acceptate conform instructiunilor de laborator) si avertismentele ERC "Only INPUT pins on NET" (de asemenea acceptate).
-
 **Observatie privind BMA421 vs BMA423:** in schema deviceset-ul este BMA423, dar valoarea componentei scrie BMA421. Cele doua sunt pin-compatibile (acelasi footprint LGA-12, 2x2mm), deci nu afecteaza PCB-ul.
 
 ---
