@@ -1,3 +1,5 @@
+![Post-proiect](./image.jpeg)
+---
 # InkTime -- Smartwatch Open Source cu Display E-Paper
 **TSC 2026 -- Andrei-Alexandru Bleortu, 334CA**
 
